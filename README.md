@@ -116,3 +116,5 @@ tar -xzvf <YOUR-SYSTEM-SPECIFIC-BINARY>.tar.gz
 2024-04-29 07:49:09 ⚙️  Syncing 206.2 bps, target=#137401 (10 peers), best: #8099 (0x559a…9c2e), finalized #7680 (0x84b6…abc0), ⬇ 103.9kiB/s ⬆ 0.9kiB/s    
 2024-04-29 07:49:14 ⚙️  Syncing 204.4 bps, target=#137401 (10 peers), best: #9121 (0xf95e…5a17), finalized #8704 (0x6e49…33cd), ⬇ 98.0kiB/s ⬆ 1.5kiB/s
 ```
+# Become a Validator
+- đọc thêm ở đây https://docs.availproject.org/docs/operate-a-node/become-a-validator
