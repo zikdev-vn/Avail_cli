@@ -3,6 +3,10 @@
 
 ## how to run 
 
+- CPU 1 - 4 core
+- Ram 1 - 8 GB
+- ssd 20 - 80 GB
+  
 ```bash
 git clone https://github.com/availproject/availup && cd availup
 ```
@@ -55,9 +59,9 @@ curl -sL1 avail.sh | bash -s -- --network turing
 - https://docs.availproject.org/docs/operate-a-node/run-a-full-node/full-node
 
 
-CPU: 4 - 8 core
-Ram: 8 - 16 gb
-ssd: 20 - 40 or 200 - 300 GB
+- CPU: 4 - 8 core
+- Ram: 8 - 16 gb
+- ssd: 20 - 40 or 200 - 300 GB
 
 ## Ubuntu
 
